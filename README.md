@@ -1,1 +1,1 @@
-# Rock-Paper_Scissors Python
+# Rock-Paper-Scissors Python
